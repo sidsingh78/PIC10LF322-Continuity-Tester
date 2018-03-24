@@ -5,7 +5,7 @@ PIC Microcontroller firmware code for Continuity, Reverse Continuity, Diode and 
  * Project:         Continuity Tester
  * Version:         V1.0
  * Date Created:    03/20/2018
- * Date Modified:   03/22/2018
+ * Date Modified:   03/24/2018
  * Author:          Siddharth Singh
  * Project URL:     https://hackaday.io/project/96603-continuity-diode-and-led-tester
  
