@@ -71,7 +71,7 @@ void initHardware()
 
 unsigned char readADC()
 {
-	__delay_us(30);		//sampling interval
+	__delay_us(50);		//sampling interval
 	GO_nDONE=1;			//Start ADC Conversion
 	while (GO_nDONE=1); //wait while ADC conversion is complete
 	return ADRES;		//return ADC result
